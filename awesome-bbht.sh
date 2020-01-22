@@ -475,8 +475,8 @@ echo "done"
 ###########################
 
 
-#install sqli
-echo "installing sqli"
+#install sqlmap
+echo "installing sqlmap"
 git clone https://github.com/sqlmapproject/sqlmap.git /opt/tools/exploitation/sqli/sqlmap
 echo "done"
 
