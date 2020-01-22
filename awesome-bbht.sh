@@ -548,7 +548,7 @@ echo "done"
 
 #install CMSmap
 echo "installing CMSmap"
-git clone https://github.com/Dionach/CMSmap /opt/tools/CMS/Joomscan
+git clone https://github.com/Dionach/CMSmap.git /opt/tools/CMS/Joomscan
 cd /opt/tools/CMS/Joomscan
 pip3 install .
 echo "done"
@@ -610,7 +610,7 @@ echo "done"
 
 #install Osmedeus
 echo "installing Osmedeus"
-git clone https://github.com/j3ssie/Osmedeus /opt/tools/Frameworks/osmedeus
+git clone https://github.com/j3ssie/Osmedeus.git /opt/tools/Frameworks/osmedeus
 cd /opt/tools/Frameworks/osmedeus
 ./install.sh
 echo "done"
