@@ -10,7 +10,7 @@ the list of tools downloaded:
 - [knockpy](https://github.com/guelfoweb/knock)
 - [subbrute](https://github.com/TheRook/subbrute)
 - [assetfinder](https://github.com/tomnomnom/assetfinder)
-- [domain-finder](wget https://raw.githubusercontent.com/gwen001/pentest-tools/master/domain-finder.py)
+- [domain-finder](https://raw.githubusercontent.com/gwen001/pentest-tools/master/domain-finder.py)
 - [rsdl](https://github.com/tismayil/rsdl)
 - [subDomainizer](https://github.com/nsonaniya2010/SubDomainizer)
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer)
