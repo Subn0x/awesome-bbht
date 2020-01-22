@@ -154,7 +154,7 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 - [open-redirect-scanner](https://github.com/ak1t4/open-redirect-scanner) - open redirect subdomains scanner
 
-### CMS
+## CMS
 
 - [CMSmap](https://github.com/Dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
 
@@ -164,7 +164,7 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 - [Joomscan](https://github.com/rezasp/joomscan) - OWASP Joomla Vulnerability Scanner Project
 
-### Frameworks
+## Frameworks
 
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts
 
