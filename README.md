@@ -153,32 +153,33 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 - [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites
 
-- [Joomscan](https://github.com/rezasp/joomscan) - OWASP Joomla Vulnerability Scanner Project https://www.owasp.org/index.php/Categ…
+- [Joomscan](https://github.com/rezasp/joomscan) - OWASP Joomla Vulnerability Scanner Project
 
 ### Frameworks
 
-- [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts https://xerosecurity.com
+- [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts
 
 - [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 
 - [datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
 
-- [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning https://j3ssie.github.io/Osmedeus/
+- [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 
-- [TIDoS-Framework](https://github.com/0xinfection/tidos-framework) - Fully automated offensive security framework for reconnaissance and vulnerability scanning https://j3ssie.github.io/Osmedeus/
+- [TIDoS-Framework](https://github.com/0xinfection/tidos-framework) - The Offensive Manual Web Application Penetration Testing Framework.
+
 
 - [discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 
 - [lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
 
-- [003Recon](https://github.com/003random/003Recon) - Some tools to automate recon - 003random https://poc-server.com/
+- [003Recon](https://github.com/003random/003Recon) - Some tools to automate recon - 003random 
 
 - [LazyRecon](https://github.com/capt-meelo/LazyRecon) - An automated approach to performing recon for bug bounty hunting and penetration testing.
 
 
 ##Wordlists
 
-- [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. https://www.owasp.org/index.php/OWASP…
+- [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 - [Jhaddix Wordlist](https://gist.githubusercontent.com/jhaddix/b80ea67d85c13206125806f0828f4d10/raw/c81a34fe84731430741e0463eb6076129c20c4c0/content_discovery_all.txt)
 
@@ -190,7 +191,7 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 - [nmap](https://nmap.org/) - network mapper
 
-- [Blazy](https://github.com/s0md3v/Blazy) - Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF . https://teamultimate.in
+- [Blazy](https://github.com/s0md3v/Blazy) - Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF. 
 
 - [httprobe](https://github.com/tomnomnom/httprobe) - 
 Take a list of domains and probe for working HTTP and HTTPS servers
