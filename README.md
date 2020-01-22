@@ -149,6 +149,39 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 - [CMSmap](https://github.com/Dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
 
+- [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs
+
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals and blog maintainers to test the security of their WordPress websites
+
+- [Joomscan](https://github.com/rezasp/joomscan) - OWASP Joomla Vulnerability Scanner Project https://www.owasp.org/index.php/Categ…
+
+### Frameworks
+
+- [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts https://xerosecurity.com
+
+- [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+
+- [datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
+
+- [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning https://j3ssie.github.io/Osmedeus/
+
+- [TIDoS-Framework](https://github.com/0xinfection/tidos-framework) - Fully automated offensive security framework for reconnaissance and vulnerability scanning https://j3ssie.github.io/Osmedeus/
+
+- [discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
+
+- [lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
+
+- [003Recon](https://github.com/003random/003Recon) - Some tools to automate recon - 003random https://poc-server.com/
+
+- [LazyRecon](https://github.com/capt-meelo/LazyRecon) - An automated approach to performing recon for bug bounty hunting and penetration testing.
+
+## Other
+
+- [altdns](https://github.com/infosec-au/altdns) - Generates permutations, alterations and mutations of subdomains and then resolves them
+
+- [nmap](https://nmap.org/) - network mapper
+
+- [Blazy](https://github.com/s0md3v/Blazy) - Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF . https://teamultimate.in
 
 
 
