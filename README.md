@@ -112,9 +112,44 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 - [spaces-finder](https://github.com/appsecco/spaces-finder) - A tool to hunt for publicly accessible DigitalOcean Spaces
 
-###XXE
+### XXE
 
 - [XXEinjector](https://github.com/enjoiz/XXEinjector) - Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.
+
+### CSRF
+
+- [XSRFProbe](https://github.com/0xInfection/XSRFProbe) - The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit.
+
+### Command Injection
+
+- [commix](https://github.com/commixproject/commix) - Automated All-in-One OS command injection and exploitation tool. https://commixproject.com
+
+
+### SQLi
+
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool http://sqlmap.org
+
+- [sqliv](https://github.com/the-robot/sqliv) - massive SQL injection vulnerability scanner
+
+- [sqlmate](https://github.com/s0md3v/sqlmate) - A friend of SQLmap which will do what you always expected from SQLmap.
+
+### XSS
+
+- [XSS-Finder](https://github.com/haroonawanofficial/XSS-Finder) - World's most Powerful and Advanced Cross Site Scripting Software
+
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
+
+- [XSS-keylogger](https://github.com/hadynz/xss-keylogger) - A keystroke logger to exploit XSS vulnerabilities in a site - for my personal Educational purposes only
+
+### Open Redirect
+
+- [open-redirect-scanner](https://github.com/ak1t4/open-redirect-scanner) - open redirect subdomains scanner
+
+### CMS
+
+- [CMSmap](https://github.com/Dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
+
+
 
 
 
