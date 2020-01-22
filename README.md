@@ -36,6 +36,8 @@ the list of tools downloaded:
 
 ## Content Discovery
 
+### API
+
 - [secretx](https://github.com/xyele/secretx) - Extracting api keys and secrets by requesting each url in your list.
 
 
@@ -70,12 +72,54 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 ### Code Audit
 
-- [Cobra](https://github.com/WhaleShark-Team/cobra)
+- [Cobra](https://github.com/WhaleShark-Team/cobra) - Source Code Security Audit (源代码安全审计)
+
+### Crawlers
+
+- [Crawler](https://github.com/ghostlulzhacks/crawler) - Crawl website extract links
+
+- [waybackMachine](https://github.com/ghostlulzhacks/waybackMachine) - Use wayback Machine data to pull a list of paths.
+
+- [meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
+
+- [hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+
+- [igoturls](https://github.com/xyele/igoturls) - WaybackURLS + OtxURLS + CommonCrawl
+
+### Directory Bruteforcers & Fuzzers
+
+- [gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+
+- [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+
+- [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+
+## Exploitation
+
+### Subdomain Takeover
+
+- [subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
+
+- [subdomain-takeover](https://github.com/antichown/subdomain-takeover) - Subdomain Takeover Scanner | Subdomain Takeover Tool | by 0x94
+
+- [takeover](https://github.com/m4ll0k/takeover) - Sub-Domain TakeOver Vulnerability Scanner
+
+### Google Cloud Storage
+
+- [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+
+### Digital Ocean
+
+- [spaces-finder](https://github.com/appsecco/spaces-finder) - A tool to hunt for publicly accessible DigitalOcean Spaces
+
+###XXE
+
+- [XXEinjector](https://github.com/enjoiz/XXEinjector) - Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.
 
 
-- []()
-- []()
-- []()
-- []()
+
+
+
+
 
 
