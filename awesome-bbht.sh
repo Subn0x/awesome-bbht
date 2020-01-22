@@ -67,7 +67,7 @@ mkdir /opt/tools/other
 
 #Don't forget to set up AWS credentials!
 echo "Don't forget to set up AWS credentials!"
-apt install -y awscli
+pip3 install awscli --upgrade --user
 echo "Don't forget to set up AWS credentials!"
 
 
