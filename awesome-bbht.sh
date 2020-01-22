@@ -548,7 +548,7 @@ echo "done"
 
 #install CMSmap
 echo "installing CMSmap"
-git clone https://github.com/Dionach/CMSmap.git /opt/tools/CMS/Joomscan
+git clone https://github.com/Dionach/CMSmap.git /opt/tools/CMS/CMSmap
 cd /opt/tools/CMS/Joomscan
 pip3 install .
 echo "done"
