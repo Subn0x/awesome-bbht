@@ -7,7 +7,7 @@ the list of tools downloaded:
 
 ## Subdomain-enum
 
-- [aquatone](https://nodejs.org/)
+- [aquatone](https://nodejs.org/) - A Tool for Domain Flyovers
 
 - [knockpy](https://github.com/guelfoweb/knock) - Knockpy is a python tool designed to enumerate subdomains on a target domain through a wordlist.
 
