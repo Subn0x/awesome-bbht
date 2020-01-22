@@ -603,7 +603,7 @@ echo "done"
 echo "installing datasploit"
 git clone https://github.com/DataSploit/datasploit.git /opt/tools/Frameworks/datasploit
 cd /opt/tools/Frameworks/datasploit
-pip install --upgrade --force-reinstall -r requirements.txt
+python3 -m pip install --upgrade --force-reinstall -r requirements.txt
 echo "done"
 
 
@@ -689,6 +689,7 @@ echo "done"
 #install httprobe
 echo "installing httprobe"
 go get -u github.com/tomnomnom/httprobe
+echo "done"
 
 
 
