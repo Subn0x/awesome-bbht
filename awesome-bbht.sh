@@ -548,7 +548,7 @@ echo "done"
 
 #install CMSmap
 echo "installing CMSmap"
-git clone  git clone https://github.com/Dionach/CMSmap /opt/tools/CMS/Joomscan
+git clone https://github.com/Dionach/CMSmap /opt/tools/CMS/Joomscan
 cd /opt/tools/CMS/Joomscan
 pip3 install .
 echo "done"
@@ -708,8 +708,6 @@ echo "done"
 cd /opt/tools/Wordlists/SecLists/Discovery/DNS/
 ##THIS FILE BREAKS MASSDNS AND NEEDS TO BE CLEANED
 cat dns-Jhaddix.txt | head -n -14 > clean-jhaddix-dns.txt
-
-
 
 
 #install JHaddix Wordlist
