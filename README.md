@@ -1,6 +1,15 @@
 # awesome-bbht
 A bash script that will automatically install a list of bug hunting tools I use, for recon, expolition, etc. (minus brup, and a few others)
 
+## Install
+
+```sh
+
+git clone https://github.com/0xApt/awesome-bbht.sh
+cd awesome-bbht
+./awesome-bbht.sh
+```
+
 the list of tools downloaded: 
 
 >awscli
@@ -177,7 +186,7 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 - [LazyRecon](https://github.com/capt-meelo/LazyRecon) - An automated approach to performing recon for bug bounty hunting and penetration testing.
 
 
-##Wordlists
+## Wordlists
 
 - [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
