@@ -393,6 +393,9 @@ echo "installing takeover"
 git clone https://github.com/m4ll0k/takeover.git /opt/tools/exploitation/takeover
 echo "done"
 
+#install SubOver
+echo "installing SubOver"
+go get github.com/Ice3man543/SubOver
 
 
 ###########################
