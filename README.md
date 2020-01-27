@@ -114,6 +114,9 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 - [takeover](https://github.com/m4ll0k/takeover) - Sub-Domain TakeOver Vulnerability Scanner
 
+- [SubOver](https://github.com/Ice3man543/SubOver) - A Powerful Subdomain Takeover Tool 
+
+
 ### Google Cloud Storage
 
 - [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
