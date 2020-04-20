@@ -143,6 +143,12 @@ cd /opt/tools/subdomin-enum/Sublist3r
 pip install -r requirements.txt
 echo "done"
 
+#install Sudomy
+echo "Installing Sudomy"
+git clone --recursive https://github.com/screetsec/Sudomy.git /opt/tools/subdomain-enum/Sudomy
+cd /opt/tools/subdomain-enum/Sudomy
+pip install -r requirements.txt
+echo "done"
 
 
 
