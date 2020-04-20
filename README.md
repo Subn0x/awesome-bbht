@@ -172,6 +172,8 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 - [Droopescan](https://github.com/droope/droopescan) - 
 A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
 
+- [Drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
+ 
 
 ## Frameworks
 
