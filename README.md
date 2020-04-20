@@ -169,6 +169,10 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 - [Joomscan](https://github.com/rezasp/joomscan) - OWASP Joomla Vulnerability Scanner Project
 
+- [Droopescan](https://github.com/droope/droopescan) - 
+A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
+
+
 ## Frameworks
 
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts
