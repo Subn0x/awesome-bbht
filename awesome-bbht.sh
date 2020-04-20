@@ -562,8 +562,6 @@ cd /opt/tools/CMS/CMSmap
 pip3 install .
 echo "done"
 
-
-
 #install CMSeek
 echo "installing CMSeek"
 git clone https://github.com/Tuhinshubhra/CMSeeK.git /opt/tools/CMS/CMSeek
@@ -581,6 +579,10 @@ echo "installing wpscan"
 gem install wpscan
 echo "done"
 
+#install droopescan
+"echo installing droopescan"
+apt-get install python-pip
+pip install droopescan
 
 
 
