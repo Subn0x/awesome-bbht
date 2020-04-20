@@ -43,6 +43,7 @@ the list of tools downloaded:
 
 - [sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 
+- [Sudomy](https://github.com/Screetsec/Sudomy) - Sudomy is a subdomain enumeration tool, created using a bash script, to analyze domains and collect subdomains in fast and comprehensive way . Report output in HTML or CSV format https://github.com/Screetsec/
 
 ## Content Discovery
 
