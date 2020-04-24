@@ -711,7 +711,10 @@ echo "installing httprobe"
 go get -u github.com/tomnomnom/httprobe
 echo "done"
 
-
+#install broken-link-checker
+echo "installing broken-link-checker"
+npm install broken-link-checker -g
+echo "done"
 
 
 ###########################
