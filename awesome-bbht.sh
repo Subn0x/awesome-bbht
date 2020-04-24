@@ -580,18 +580,18 @@ gem install wpscan
 echo "done"
 
 #install droopescan
-"echo installing droopescan"
+echo "installing droopescan"
 apt-get install python-pip
 pip install droopescan
-"echo done"
+echo "done"
 
 #install drupwn
-"echo installing drupwn"
+echo "installing drupwn"
 git clone https://github.com/immunIT/drupwn.git /opt/tools/CMS/drupwn
 cd /opt/tools/CMS/drupwn
 python3 setup.py install
 drupwn --help
-"echo done"
+echo "done"
 
 
 
