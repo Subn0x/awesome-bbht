@@ -216,6 +216,8 @@ A plugin-based scanner that aids security researchers in identifying issues with
 - [httprobe](https://github.com/tomnomnom/httprobe) - 
 Take a list of domains and probe for working HTTP and HTTPS servers
 
+- [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - 
+Find broken links, missing images, etc within your HTML.
 
 
 
