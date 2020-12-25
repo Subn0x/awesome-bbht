@@ -716,6 +716,11 @@ echo "installing broken-link-checker"
 npm install broken-link-checker -g
 echo "done"
 
+#install wafw00f -it is great tool to identify web application firewall      
+echo "installing wa00f"
+git clone https://github.com/EnableSecurity/wafw00f.git
+python3 wafw00f/setup.py install
+echo "done"
 
 ###########################
 
