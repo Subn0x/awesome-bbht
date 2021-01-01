@@ -219,8 +219,7 @@ Take a list of domains and probe for working HTTP and HTTPS servers
 - [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - 
 Find broken links, missing images, etc within your HTML.
 
-
-
+- [wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website. 
 
 
 
