@@ -1,5 +1,5 @@
 # awesome-bbht
-A bash script that will automatically install a list of bug hunting tools I use, for recon, expolition, etc. (minus brup, and a few others)
+A bash script that will automatically install a list of bug hunting tools I use, for recon, expolition, etc. (minus brup, and a few others. Contributions are always welcome.)
 
 ## Install
 
