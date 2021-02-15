@@ -550,6 +550,19 @@ echo "done"
 
 
 
+###########################
+
+#    	     Git          #
+
+###########################
+
+#installing truffleHog
+echo "installing truffleHog"
+python3 -m pip install trufflehog
+
+#installing 
+echo "installing git-dumper"
+git clone https://github.com/arthaud/git-dumper.git /opt/tools/Git/git-dumper
 
 
 
