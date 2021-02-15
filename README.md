@@ -45,6 +45,8 @@ the list of tools downloaded:
 
 - [Sudomy](https://github.com/Screetsec/Sudomy) - Sudomy is a subdomain enumeration tool, created using a bash script, to analyze domains and collect subdomains in fast and comprehensive way . Report output in HTML or CSV format https://github.com/Screetsec/
 
+- [dnsenum](https://github.com/fwaeytens/dnsenum) - Multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
+
 ## Content Discovery
 
 ### API
