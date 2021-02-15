@@ -175,7 +175,12 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
 
 - [Drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
- 
+
+## Git
+
+- [truffleHog](https://github.com/dxa4481/truffleHog.git) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history 
+
+- [git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website 
 
 ## Frameworks
 
