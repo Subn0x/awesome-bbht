@@ -2,7 +2,6 @@
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
-
 sudo apt-get install -y libcurl4-openssl-dev
 sudo apt-get install -y libssl-dev
 sudo apt-get install -y jq
@@ -81,6 +80,12 @@ echo "done"
 echo "Installing knockpy"
 git clone https://github.com/guelfoweb/knock.git /opt/tools/subdomain-enum/knockpy
 echo "done"
+
+#install dnsenum
+echo "Installing dnsenum"
+sudo apt install libtest-www-mechanize-perl libnet-whois-ip-perl
+git clone https://github.com/fwaeytens/dnsenum /opt/tools/subdomain-enum/dnsenum
+
 
 #install subbrute
 echo "Installing subbrute"
