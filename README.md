@@ -1,5 +1,5 @@
 # awesome-bbht
-A bash script that will automatically install a list of bug hunting tools I sometimes use for recon, exploition, etc. (minus burp.) (Contributions are always welcome.)
+A bash script that will automatically install a list of bug hunting tools I sometimes use for recon, exploitation, etc. (minus burp.) (Contributions are always welcome.)
 
 ## Install
 
