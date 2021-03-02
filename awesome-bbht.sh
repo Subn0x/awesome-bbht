@@ -62,6 +62,8 @@ echo "Creating /opt/tools/content-discovery"
 mkdir /opt/tools/content-discovery
 echo "Creating /opt/tools/other"
 mkdir /opt/tools/other 
+echo "Creating /opt/tools/CloudFlare"
+mkdir /opt/tool/CloudFlare
 
 
 #Don't forget to set up AWS credentials!
@@ -548,6 +550,16 @@ echo "installing open-redirect-scanner"
 git clone https://github.com/ak1t4/open-redirect-scanner.git /opt/tools/exploitation/open-redirect/open-redirect-scanner
 echo "done"
 
+
+###########################
+
+#        CloudFlare       #
+
+###########################
+#install CloudFail
+echo "installing CloudFail"
+git clone https://github.com/m0rtem/CloudFail.git /opt/tools/CloudFlare/CloudFail
+echo "done"
 
 
 ###########################
