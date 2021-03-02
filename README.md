@@ -1,5 +1,5 @@
 # awesome-bbht
-A bash script that will automatically install a list of bug hunting tools I sometimes use for recon, expolition, etc. (minus burp.) (Contributions are always welcome.)
+A bash script that will automatically install a list of bug hunting tools I sometimes use for recon, exploition, etc. (minus burp.) (Contributions are always welcome.)
 
 ## Install
 
@@ -11,7 +11,7 @@ chmod +x awesome-bbht.sh
 sudo ./awesome-bbht.sh
 ```
 
-the list of tools downloaded: 
+The list of tools downloaded: 
 
 >awscli
 
