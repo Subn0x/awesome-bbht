@@ -176,6 +176,10 @@ A plugin-based scanner that aids security researchers in identifying issues with
 
 - [Drupwn](https://github.com/immunIT/drupwn) - Drupal enumeration & exploitation tool
 
+## CloudFlare
+
+- [CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network 
+
 ## Git
 
 - [truffleHog](https://github.com/dxa4481/truffleHog.git) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history 
