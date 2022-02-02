@@ -541,10 +541,7 @@ echo "done"
 
 ###########################
 
-#install open-redirect-scanner
-echo "installing open-redirect-scanner"
-git clone https://github.com/ak1t4/open-redirect-scanner.git /opt/tools/exploitation/open-redirect/open-redirect-scanner
-echo "done"
+#spot left for potential open redirect testing tools
 
 
 ###########################
