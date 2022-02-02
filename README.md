@@ -193,7 +193,6 @@ A plugin-based scanner that aids security researchers in identifying issues with
 
 - [TIDoS-Framework](https://github.com/0xinfection/tidos-framework) - The Offensive Manual Web Application Penetration Testing Framework.
 
-
 - [discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
 
 - [lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
@@ -201,6 +200,8 @@ A plugin-based scanner that aids security researchers in identifying issues with
 - [003Recon](https://github.com/003random/003Recon) - Some tools to automate recon - 003random 
 
 - [LazyRecon](https://github.com/capt-meelo/LazyRecon) - An automated approach to performing recon for bug bounty hunting and penetration testing.
+
+- [Vulmap](https://github.com/zhzyker/vulmap) - Vulmap is a web vulnerability scanning and verification tool that can scan webapps for vulnerabilities and has a vulnerability verification function 
 
 
 ## Wordlists
