@@ -151,15 +151,10 @@ A simple file-based scanner to look for potential AWS access and secret keys in 
 
 ### XSS
 
-- [XSS-Finder](https://github.com/haroonawanofficial/XSS-Finder) - World's most Powerful and Advanced Cross Site Scripting Software
-
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 
 - [XSS-keylogger](https://github.com/hadynz/xss-keylogger) - A keystroke logger to exploit XSS vulnerabilities in a site - for my personal Educational purposes only
 
-### Open Redirect
-
-- [open-redirect-scanner](https://github.com/ak1t4/open-redirect-scanner) - open redirect subdomains scanner
 
 ## CMS
 
