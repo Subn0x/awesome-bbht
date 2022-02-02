@@ -697,10 +697,16 @@ echo "done"
 #install LazyRecon
 echo "installing LazyRecon"
 echo "remember to set API keys!!"
-git clone https://github.com/capt-meelo/LazyRecon.git /opt/tools/Frameworks/
+git clone https://github.com/capt-meelo/LazyRecon.git /opt/tools/Frameworks/LazyRecon
 echo "done"
 
 
+#install Vulmap
+echo "installing Vulmap"
+git clone https://github.com/zhzyker/vulmap.git /opt/tools/Frameworks/Vulmap
+cd /opt/tools/Frameworks/Vulmap
+python3 -m pip install -r requirements.txt
+echo "done"
 
 
 #############################################
