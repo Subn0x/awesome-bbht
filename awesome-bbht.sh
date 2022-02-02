@@ -520,10 +520,6 @@ echo "done"
 
 ###########################
 
-#install XSS-Finder
-echo "installing XSS-Finder"
-git clone https://github.com/haroonawanofficial/XSS-Finder.git
-echo "done"
 
 #install XSStrike
 echo "installing XSStrike"
