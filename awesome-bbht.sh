@@ -146,7 +146,7 @@ echo "done"
 #install sublist3r
 echo "Installing Sublist3r"
 git clone https://github.com/aboul3la/Sublist3r.git /opt/tools/subdomain-enum/Sublist3r
-cd /opt/tools/subdomin-enum/Sublist3r
+cd /opt/tools/subdomain-enum/Sublist3r
 pip install -r requirements.txt
 echo "done"
 
